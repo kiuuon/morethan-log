@@ -14,14 +14,14 @@ const CONFIG = {
     {
       name: `BaekjoonRooms`,
       href: "https://github.com/boostcampwm2023/web15-BaekjoonRooms",
-      imgae: "/baekjoonrooms.png",
+      image: "/baekjoonrooms.png",
     },
   ],
   // blog setting (required)
   blog: {
     title: "kiuuonlog",
     description: "",
-    theme: "atuo", // "auto", "light", "dark" 
+    theme: "light", // "auto", "light", "dark" 
   },
 
   // CONFIG configration (required)

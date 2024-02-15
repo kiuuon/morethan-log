@@ -4,7 +4,7 @@ const CONFIG = {
     name: "kiuuon",
     image: "/kiuuon.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Frontend Developer :p",
-    bio: "I develop everything using node.",
+    bio: "",
     email: "kiuuon29@gmail.com",
     linkedin: "",
     github: "kiuuon",
@@ -21,6 +21,7 @@ const CONFIG = {
   blog: {
     title: "kiuuonlog",
     description: "",
+    theme: "atuo", // "auto", "light", "dark" 
   },
 
   // CONFIG configration (required)
@@ -54,7 +55,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
       repo: "kiuuon/morethan-log",
       "issue-term": "og:title",

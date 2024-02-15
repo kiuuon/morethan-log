@@ -14,7 +14,6 @@ const CONFIG = {
     {
       name: `BaekjoonRooms`,
       href: "https://github.com/boostcampwm2023/web15-BaekjoonRooms",
-      image: "/baekjoonrooms.png",
     },
   ],
   // blog setting (required)
